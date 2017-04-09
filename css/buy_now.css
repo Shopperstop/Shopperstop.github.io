@@ -1,0 +1,22 @@
+form {
+	border: 5px solid #ff7c00;
+	border-color: #ff7c00;
+	color: #ff7c00;
+	width: 500px;
+ 	position: relative;
+ 	left: 500px;
+ 	top: -300px;
+ 	padding: 50px; }
+ 	
+
+	
+footer {
+	position: relative;
+	bottom: 0px;}
+	
+
+html, body, #page {
+	height: 800px;	}
+	
+input{
+	text-decoration: none; }
